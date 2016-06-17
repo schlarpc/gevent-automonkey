@@ -8,7 +8,7 @@ relative_site_packages_path = match.group(1)
 
 setuptools.setup(
     name = 'gevent-automonkey',
-    version = '1.0',
+    version = '1.0.1',
     description = 'Automatically monkey patch a Python environment with gevent',
     url = 'https://github.com/schlarpc/gevent-automonkey',
     author = 'Chaz Schlarp',
